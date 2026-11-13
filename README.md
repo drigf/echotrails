@@ -1,6 +1,6 @@
 # Echo Trails
 
-A native macOS After Effects effect written in C++17. Edit the source in VS Code and build the generated project in Xcode. Creates historical-frame echoes with music-driven motion, colour, and progressive signal damage.
+A native macOS After Effects effect written in C++17. Creates historical-frame echoes with music-driven motion, colour, and progressive signal damage.
 
 ## Start here
 
